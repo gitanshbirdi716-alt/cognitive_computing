@@ -1,0 +1,16 @@
+Ticket_ID,Ticket_Text
+T01,Write to it.helpdesk@thapar.edu or visit www.thapar.edu/it.
+T02,The state-of-the-art lab (Lab-3) is closed.
+T03,E-mail stopped responding during the lab. It works on another computer.
+T04,Nothing works and nobody has replied.
+T05,I tried restarting the VPN on my laptop. Is there another solution?
+T06,The projector keeps disconnecting. This is urgent.
+T07,The printer keeps disconnecting. I don't know what changed.
+T08,VPN keeps disconnecting after restarting the system. Can you check this?
+T09,Student portal failed to open after restarting the system. Is there another solution?
+T10,The laptop keeps disconnecting. Can you check this?
+T11,Printer keeps disconnecting when I use mobile hotspot. This is urgent.
+T12,The Python was working yesterday. This is urgent.
+T13,The student portal keeps asking for login. Can you check this?
+T14,Only 2 of 30 PCs boot after 3.5 hours.
+T15,Printer failed to open after resetting my password. Can you check this?
